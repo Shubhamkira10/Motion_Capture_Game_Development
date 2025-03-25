@@ -1,4 +1,4 @@
-## Project Documentation: Real-Time Human Motion Capture with MediaPipe & Blender Integration
+## roject Documentation: Real-Time Human Motion Capture with MediaPipe & Blender Integration
 
 ### 1. Project Overview
 
